@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Nimród Kiss-Bartha. I'm a university student 🎓 studying Computer Science 🖥️ at the Faculty of Informatics at Eötvös Loránd University 🏫.
 
 On this page, you can find some of my works that I'm proud of (or at least, not critical enough about them to revoke them from public accessibility). 
-I'm a strong believer that the best way to evaluate one's work in the most effective, fair and all-encompassing way is to let them see the path of improvement that they had taken.
+I'm a strong believer in that the best way to evaluate one's work in the most effective, fair and all-encompassing way is to let them see the path of improvement that they had taken.
 
 I recommend that you start with my university assignments in the following order, then continue with my hobby projects.
 
