@@ -36,4 +36,4 @@ I recommend that you start with my university assignments in the following order
 **About me**:
 - 📫 E-mail: [email.kbnim@gmail.com](mailto:email.kbnim@gmail.com)
 - Areas of interest related to CS: writing safe and "future-proof" code, formal languages and compilers, low-level programming, language processing
-- Areas of interest NOT related to CS: linguistics, sound changes, phonological evolution
+- Areas of interest not related to CS: linguistics, sound changes, phonological evolution
